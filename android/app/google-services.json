@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "620118540071",
+    "firebase_url": "https://filmfest-218c4-default-rtdb.firebaseio.com",
+    "project_id": "filmfest-218c4",
+    "storage_bucket": "filmfest-218c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620118540071:android:35b97ff6be1631f01fb302",
+        "android_client_info": {
+          "package_name": "com.undiksha.filmfest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4PQ8TdSCVbHq_rfkIWF5Zbs-saXap8ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
